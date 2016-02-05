@@ -35,3 +35,15 @@ Finally, these roles can be assigned to your users. This information will be per
 And to test this you can view the user's effective permissions. This will calculate all the permissions that apply to this user by going over the user's roles and sub-roles (recursively).
 
 ![](http://cdn.auth0.com/docs/img/roles-perm-dashboard-users-effective.png)
+
+## Issue Reporting
+
+If you have found a bug or if you have a feature request, please report them at this repository issues section. Please do not report security vulnerabilities on the public GitHub issue tracker. The [Responsible Disclosure Program](https://auth0.com/whitehat) details the procedure for disclosing security issues.
+
+## Author
+
+[Auth0](auth0.com)
+
+## License
+
+This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more info.
